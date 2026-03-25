@@ -1,0 +1,10 @@
+.card.flex-row .card-img-top,
+.card.flex-row .img-fluid {
+  width: 40%;
+  height: 100%;
+}
+
+.card-img-top {
+  width: 100%;
+  height: auto;
+}
