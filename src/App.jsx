@@ -24,7 +24,7 @@ const App = () => (
             <p className="card-text">
               Это пример текста карточки. Здесь можно разместить описание или любую другую информацию.
             </p>
-            <a href="#" className="btn btn-primary">Перейти</a>
+            <a href="https://AleksVir.github.io/cards" className="btn btn-primary">Перейти</a>
           </CardBody>
         </Card>
       </div>
@@ -37,7 +37,7 @@ const App = () => (
             <p className="card-text">
               Пример карточки без изображения, содержащей только текстовое содержимое.
             </p>
-            <a href="#" className="btn btn-outline-primary">Подробнее</a>
+            <a href="https://AleksVir.github.io/cards" className="btn btn-outline-primary">Подробнее</a>
           </CardBody>
         </Card>
       </div>
@@ -60,7 +60,7 @@ const App = () => (
           <CardBody>
             <h5 className="card-title">Цветная карточка</h5>
             <p className="card-text">Пример карточки с цветным фоном и белым текстом.</p>
-            <a href="#" className="btn btn-light">Действие</a>
+            <a href="https://AleksVir.github.io/cards" className="btn btn-light">Действие</a>
           </CardBody>
         </Card>
       </div>
